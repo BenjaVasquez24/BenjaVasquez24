@@ -1,12 +1,12 @@
-## Profile Information
+## Hello 👋
 
-### Hi, I'm a Benjamín Vásquez
+My name is Benjamín Vásquez
+- 🆑 I'm from Chile
 - ✨ I'm 22 
 - 📚 I'm a Computer Engineering Student at Duoc UC
 - 🎮 I'm a content creator in Twitch
 
-
-## Connect with me:
+### Connect with me:
 [<img alt="Beeenja__  |  Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>][twitch]
 [<img alt="v.bnja  |  Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
