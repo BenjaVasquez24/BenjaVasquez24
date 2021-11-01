@@ -8,9 +8,9 @@ My name is Benjamín Vásquez
 - 📸 I'm a Amateur Photographer
 
 ### Connect with me:
-[<img alt="Beeenja__  |  Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>][twitch]
-[<img alt="v.bnja  |  Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-[<img alt="Benja#1571  |  Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
+[<img align="left" alt="Beeenja__  |  Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>][twitch]
+[<img align="left" alt="v.bnja  |  Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="Benja#1571  |  Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-benjavasquez24.vercel.app/api/spotify)](https://open.spotify.com/user/7cd7dece88b648d8b2cdde328b86a02b)
