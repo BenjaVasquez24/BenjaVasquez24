@@ -11,6 +11,7 @@ My name is Benjamín Vásquez
 [<img alt="Beeenja__  |  Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>][twitch]
 [<img alt="v.bnja  |  Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
+### Spotify Playing 🎧
 [<img src="https://spotify-now-playing-jade-tau.vercel.app/api/spotify alt="Benja Spotify Playing" width="350"/>](https://open.spotify.com/user/7cd7dece88b648d8b2cdde328b86a02b)
 
 [![Spotify](https://spotify-now-playing-jade-tau.vercel.app/api/spotify)](https://open.spotify.com/user/7cd7dece88b648d8b2cdde328b86a02b)
