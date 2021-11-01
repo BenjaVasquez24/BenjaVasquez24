@@ -1,3 +1,11 @@
+### Profile Benjamín
+
+## Hi, I'm a Benjamín Vásquez
+- ✨ I'm 22 
+- 📚 I'm a computer engineering student at Duoc UC
+- 🎮 I'm a content creator in Twitch
+- 
+
 <img aligh="left" alt="BenjaVasquez GitHub Stats" 
 src="https://github-readme-stats.vercel.app/api?username=BenjaVasquez24&show_icons=true&hide_border=true&theme=radical"/> 
 
