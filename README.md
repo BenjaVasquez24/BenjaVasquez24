@@ -7,7 +7,7 @@
 
 
 ## Connect with me:
-[<img alt="Beeenja__  |  Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>] [twitch]
+[<img alt="Beeenja__  |  Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>][twitch]
 
 
 <br/>
