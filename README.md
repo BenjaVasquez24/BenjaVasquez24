@@ -4,7 +4,7 @@ My name is Benjamín Vásquez
 - 📍 I'm from Chile
 - ✨ I'm 22 
 - 📚 I'm a Computer Engineering Student at Duoc UC
-- 🎮 I'm a content creator in Twitch
+- 🎮 I'm a Content Creator in Twitch
 - 📸 I'm a Amateur Photographer
 
 ### Connect with me:
