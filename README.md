@@ -8,6 +8,7 @@
 
 ## Connect with me:
 [<img alt="Beeenja__  |  Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>][twitch]
+[<img alt="v.bnja  |  Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 
 <br/>
@@ -19,3 +20,4 @@ src="https://github-readme-stats.vercel.app/api?username=BenjaVasquez24&show_ico
 
 
 [twitch]: https://www.twitch.tv/Beeenja__
+[instagram]: https://www.instagram.com/v.bnja
