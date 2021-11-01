@@ -1,4 +1,4 @@
-## Profile Benjamín
+## Profile Information
 
 ### Hi, I'm a Benjamín Vásquez
 - ✨ I'm 22 
@@ -7,7 +7,7 @@
 
 <br/>
 ## Connect with me:
-[<img align=left alt="Beeenja__  |  Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>][twitch]
+[<img align=left alt="Beeenja__  |  Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>] [twitch]
 
 
 <br/>
