@@ -12,6 +12,7 @@ My name is Benjamín Vásquez
 [<img align="left" alt="v.bnja  |  Instagram" width="30px" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="Benja#1571  |  Discord" width="30px" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
 <br/>
+
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-benjavasquez24.vercel.app/api/spotify)](https://open.spotify.com/user/7cd7dece88b648d8b2cdde328b86a02b)
 <br/>
